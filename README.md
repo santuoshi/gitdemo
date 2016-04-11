@@ -1,2 +1,2 @@
 # gitdemo
-git test
+git test demo
